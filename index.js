@@ -18,7 +18,7 @@
     var $li = $(
       '<li><a href="' +
         href +
-        '" class="btn btn-sm tooltipped tooltipped-s" target="_blank" rel="noopener noreferrer"  aria-label="跳转到Gitthub1s" > 跳转到Github1s</a> </li> '
+        '" class="btn btn-sm tooltipped tooltipped-s" target="_blank" rel="noopener noreferrer"  aria-label="跳转到Github1s" > 跳转到Github1s</a> </li> '
     );
     $ul.append($li);
   })();
